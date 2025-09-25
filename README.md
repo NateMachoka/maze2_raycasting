@@ -36,7 +36,7 @@ It provides a foundation for:
 
 ### Compile
 ```bash
-gcc -Wall -Wextra -Werror -pedantic main.c path.c -o maze
+gcc -Wall -Wextra -Werror -g  maze_array.c -o maze
 ````
 ### Run
 
