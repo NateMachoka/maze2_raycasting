@@ -37,11 +37,12 @@ It provides a foundation for:
 ### Compile
 ```bash
 gcc -Wall -Wextra -Werror -pedantic main.c path.c -o maze
-
+````
 ### Run
 
 ```bash
 ./maze
+````
 
 ### Example output
 
@@ -52,6 +53,7 @@ Step 1 -> (1 , 0)
 Step 2 -> (1 , 1)
 Step 3 -> (0 , 1)
 Step 4 -> (0 , 0)
+````
 
 ## 🛠️ Functions Implemented
 
