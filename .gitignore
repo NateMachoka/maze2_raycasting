@@ -1,0 +1,19 @@
+# Compiled binaries
+maze
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Backup files
+*~
+*.c~
+
+# Editor/IDE files
+*.swp
+*.swo
+.DS_Store
+
+# Build directories
+/build/
